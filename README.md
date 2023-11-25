@@ -1,2 +1,2 @@
 # login-page
- tasoglu holding login page
+developed with html, css and JavaScript
