@@ -1,2 +1,2 @@
 # login-page
-developed with html, css and JavaScript
+Developed with html, css and JavaScript
